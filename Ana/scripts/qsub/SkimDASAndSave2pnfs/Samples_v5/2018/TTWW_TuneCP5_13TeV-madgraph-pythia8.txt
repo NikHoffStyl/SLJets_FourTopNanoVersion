@@ -1,0 +1,5 @@
+/store/mc/RunIIAutumn18NanoAODv5/TTWW_TuneCP5_13TeV-madgraph-pythia8/NANOAODSIM/Nano1June2019_102X_upgrade2018_realistic_v19_ext1-v1/110000/E596AE80-48D3-2D40-B6CC-252D3C419585.root
+/store/mc/RunIIAutumn18NanoAODv5/TTWW_TuneCP5_13TeV-madgraph-pythia8/NANOAODSIM/Nano1June2019_102X_upgrade2018_realistic_v19_ext1-v1/110000/E39D2C5D-A340-F94A-8080-5D9DFD48469B.root
+/store/mc/RunIIAutumn18NanoAODv5/TTWW_TuneCP5_13TeV-madgraph-pythia8/NANOAODSIM/Nano1June2019_102X_upgrade2018_realistic_v19_ext2-v1/30000/40DF8982-AA21-194C-B002-1BB20F085213.root
+/store/mc/RunIIAutumn18NanoAODv5/TTWW_TuneCP5_13TeV-madgraph-pythia8/NANOAODSIM/Nano1June2019_102X_upgrade2018_realistic_v19_ext2-v1/30000/10B5660A-E12A-6143-8A2F-576047DF248C.root
+/store/mc/RunIIAutumn18NanoAODv5/TTWW_TuneCP5_13TeV-madgraph-pythia8/NANOAODSIM/Nano1June2019_102X_upgrade2018_realistic_v19_ext2-v1/30000/04641852-D9BC-E545-8FC6-35DBB6F4B82E.root
